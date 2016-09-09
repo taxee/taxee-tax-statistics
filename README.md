@@ -16,6 +16,10 @@ const federalStats = 2016.TAX_DATA.federal;
 const michiganStats = 2016.TAX_DATA.michigan;
 ```
 
+## Are you using Taxee stats?
+
+We'd love to know!  Create an issue in this repo and tell us more. 
+
 ## Contributors
 
 While federal tax brackets are updated at a known frequency (once a year), state tax brackets can change at any time.  The Taxee team will update the tax brackets contained in this repository every 3 months.  If you find a discrepancy, feel free to submit a pull request or create an issue - we'd appreciate it! 
