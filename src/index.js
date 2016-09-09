@@ -1,6 +1,6 @@
-import * as y2014 from './statistics/2014/index.js';
-import * as y2015 from './statistics/2015/index.js';
-import * as y2016 from './statistics/2016/index.js';
+import y2014 from './statistics/2014/index.js';
+import y2015 from './statistics/2015/index.js';
+import y2016 from './statistics/2016/index.js';
 
 export default {
   '2014': y2014,
