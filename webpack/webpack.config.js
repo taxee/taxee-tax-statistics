@@ -1,10 +1,12 @@
 var webpack = require('webpack');
 
 module.exports = {
- // context: __dirname,
  entry: "./src/index.js",
  output: {
-   filename: "./dist/index.js"
+   filename: "./dist/index.js",
+   libraryTarget: 'umd',
+   library: 'taxee-tax-statistics',
+   umdNamedDefine: true
  },
  module: {
    loaders: [
