@@ -1,0 +1,134 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3
+        }, {
+            "bracket": 10000,
+            "marginal_rate": 5
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 5.5
+        }, {
+            "bracket": 100000,
+            "marginal_rate": 6
+        }, {
+            "bracket": 200000,
+            "marginal_rate": 6.5
+        }, {
+            "bracket": 250000,
+            "marginal_rate": 6.7
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Connecticut tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3
+        }, {
+            "bracket": 20000,
+            "marginal_rate": 5
+        }, {
+            "bracket": 100000,
+            "marginal_rate": 5.5
+        }, {
+            "bracket": 200000,
+            "marginal_rate": 6
+        }, {
+            "bracket": 400000,
+            "marginal_rate": 6.5
+        }, {
+            "bracket": 500000,
+            "marginal_rate": 6.7
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Connecticut tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3
+        }, {
+            "bracket": 10000,
+            "marginal_rate": 5
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 5.5
+        }, {
+            "bracket": 100000,
+            "marginal_rate": 6
+        }, {
+            "bracket": 200000,
+            "marginal_rate": 6.5
+        }, {
+            "bracket": 250000,
+            "marginal_rate": 6.7
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Connecticut tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3
+        }, {
+            "bracket": 10000,
+            "marginal_rate": 5
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 5.5
+        }, {
+            "bracket": 100000,
+            "marginal_rate": 6
+        }, {
+            "bracket": 200000,
+            "marginal_rate": 6.5
+        }, {
+            "bracket": 250000,
+            "marginal_rate": 6.7
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Connecticut tax brackets used in this calculation are from tax year 2012."
+        ]
+    }
+}

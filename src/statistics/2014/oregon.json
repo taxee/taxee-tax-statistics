@@ -1,0 +1,114 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }, {
+            "bracket": 3150,
+            "marginal_rate": 7
+        }, {
+            "bracket": 7950,
+            "marginal_rate": 9
+        }, {
+            "bracket": 125000,
+            "marginal_rate": 9.9
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Single)",
+            "deduction_amount": 2025
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Oregon tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }, {
+            "bracket": 6300,
+            "marginal_rate": 7
+        }, {
+            "bracket": 15900,
+            "marginal_rate": 9
+        }, {
+            "bracket": 250000,
+            "marginal_rate": 9.9
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married)",
+            "deduction_amount": 4055
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Oregon tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }, {
+            "bracket": 3150,
+            "marginal_rate": 7
+        }, {
+            "bracket": 7950,
+            "marginal_rate": 9
+        }, {
+            "bracket": 125000,
+            "marginal_rate": 9.9
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married Separately)",
+            "deduction_amount": 2025
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Oregon tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }, {
+            "bracket": 3150,
+            "marginal_rate": 7
+        }, {
+            "bracket": 7950,
+            "marginal_rate": 9
+        }, {
+            "bracket": 125000,
+            "marginal_rate": 9.9
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Head Of Household)",
+            "deduction_amount": 2025
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Oregon tax brackets used in this calculation are from tax year 2012."
+        ]
+    }
+}

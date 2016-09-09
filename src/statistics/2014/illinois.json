@@ -1,0 +1,74 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 5
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3.75
+        }, {
+            "bracket": 58600,
+            "marginal_rate": 4.75
+        }, {
+            "bracket": 133250,
+            "marginal_rate": 5.99
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Single)",
+            "deduction_amount": 8000
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3.75
+        }, {
+            "bracket": 58600,
+            "marginal_rate": 4.75
+        }, {
+            "bracket": 133250,
+            "marginal_rate": 5.99
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married)",
+            "deduction_amount": 1600
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3.75
+        }, {
+            "bracket": 58600,
+            "marginal_rate": 4.75
+        }, {
+            "bracket": 133250,
+            "marginal_rate": 5.99
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married Separately)",
+            "deduction_amount": 8000
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 3.75
+        }, {
+            "bracket": 58600,
+            "marginal_rate": 4.75
+        }, {
+            "bracket": 133250,
+            "marginal_rate": 5.99
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Head Of Household)",
+            "deduction_amount": 8000
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    }
+}

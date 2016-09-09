@@ -1,0 +1,170 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 0.59
+        }, {
+            "bracket": 5200,
+            "marginal_rate": 1.17
+        }, {
+            "bracket": 10400,
+            "marginal_rate": 2.35
+        }, {
+            "bracket": 15650,
+            "marginal_rate": 2.94
+        }, {
+            "bracket": 20900,
+            "marginal_rate": 3.52
+        }, {
+            "bracket": 41700,
+            "marginal_rate": 4.11
+        }, {
+            "bracket": 83350,
+            "marginal_rate": 4.7
+        }, {
+            "bracket": 104250,
+            "marginal_rate": 5.45
+        }, {
+            "bracket": 208500,
+            "marginal_rate": 5.92
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Ohio tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 0.59
+        }, {
+            "bracket": 5100,
+            "marginal_rate": 1.17
+        }, {
+            "bracket": 10200,
+            "marginal_rate": 2.35
+        }, {
+            "bracket": 15350,
+            "marginal_rate": 2.94
+        }, {
+            "bracket": 20450,
+            "marginal_rate": 3.52
+        }, {
+            "bracket": 40850,
+            "marginal_rate": 4.11
+        }, {
+            "bracket": 81650,
+            "marginal_rate": 4.7
+        }, {
+            "bracket": 102100,
+            "marginal_rate": 5.45
+        }, {
+            "bracket": 204200,
+            "marginal_rate": 5.92
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Ohio tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 0.59
+        }, {
+            "bracket": 5200,
+            "marginal_rate": 1.17
+        }, {
+            "bracket": 10400,
+            "marginal_rate": 2.35
+        }, {
+            "bracket": 15650,
+            "marginal_rate": 2.94
+        }, {
+            "bracket": 20900,
+            "marginal_rate": 3.52
+        }, {
+            "bracket": 41700,
+            "marginal_rate": 4.11
+        }, {
+            "bracket": 83350,
+            "marginal_rate": 4.7
+        }, {
+            "bracket": 104250,
+            "marginal_rate": 5.45
+        }, {
+            "bracket": 208500,
+            "marginal_rate": 5.92
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Ohio tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 0.59
+        }, {
+            "bracket": 5200,
+            "marginal_rate": 1.17
+        }, {
+            "bracket": 10400,
+            "marginal_rate": 2.35
+        }, {
+            "bracket": 15650,
+            "marginal_rate": 2.94
+        }, {
+            "bracket": 20900,
+            "marginal_rate": 3.52
+        }, {
+            "bracket": 41700,
+            "marginal_rate": 4.11
+        }, {
+            "bracket": 83350,
+            "marginal_rate": 4.7
+        }, {
+            "bracket": 104250,
+            "marginal_rate": 5.45
+        }, {
+            "bracket": 208500,
+            "marginal_rate": 5.92
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [
+
+        ],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Ohio tax brackets used in this calculation are from tax year 2012."
+        ]
+    }
+}

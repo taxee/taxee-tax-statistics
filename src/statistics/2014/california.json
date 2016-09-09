@@ -1,0 +1,174 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 1
+        }, {
+            "bracket": 7582,
+            "marginal_rate": 2
+        }, {
+            "bracket": 17976,
+            "marginal_rate": 4
+        }, {
+            "bracket": 28371,
+            "marginal_rate": 6
+        }, {
+            "bracket": 39384,
+            "marginal_rate": 8
+        }, {
+            "bracket": 49774,
+            "marginal_rate": 9.3
+        }, {
+            "bracket": 254250,
+            "marginal_rate": 10.3
+        }, {
+            "bracket": 305100,
+            "marginal_rate": 11.3
+        }, {
+            "bracket": 508500,
+            "marginal_rate": 12.3
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Single)",
+            "deduction_amount": 3841
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 1
+        }, {
+            "bracket": 15164,
+            "marginal_rate": 2
+        }, {
+            "bracket": 35952,
+            "marginal_rate": 4
+        }, {
+            "bracket": 56742,
+            "marginal_rate": 6
+        }, {
+            "bracket": 78768,
+            "marginal_rate": 8
+        }, {
+            "bracket": 99548,
+            "marginal_rate": 9.3
+        }, {
+            "bracket": 508500,
+            "marginal_rate": 10.3
+        }, {
+            "bracket": 610200,
+            "marginal_rate": 11.3
+        }, {
+            "bracket": 1017000,
+            "marginal_rate": 12.3
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married)",
+            "deduction_amount": 7682
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 1
+        }, {
+            "bracket": 7582,
+            "marginal_rate": 2
+        }, {
+            "bracket": 17976,
+            "marginal_rate": 4
+        }, {
+            "bracket": 28371,
+            "marginal_rate": 6
+        }, {
+            "bracket": 39384,
+            "marginal_rate": 8
+        }, {
+            "bracket": 49774,
+            "marginal_rate": 9.3
+        }, {
+            "bracket": 254250,
+            "marginal_rate": 10.3
+        }, {
+            "bracket": 305100,
+            "marginal_rate": 11.3
+        }, {
+            "bracket": 508500,
+            "marginal_rate": 12.3
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married Separately)",
+            "deduction_amount": 3841
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 1
+        }, {
+            "bracket": 7582,
+            "marginal_rate": 2
+        }, {
+            "bracket": 17976,
+            "marginal_rate": 4
+        }, {
+            "bracket": 28371,
+            "marginal_rate": 6
+        }, {
+            "bracket": 39384,
+            "marginal_rate": 8
+        }, {
+            "bracket": 49774,
+            "marginal_rate": 9.3
+        }, {
+            "bracket": 254250,
+            "marginal_rate": 10.3
+        }, {
+            "bracket": 305100,
+            "marginal_rate": 11.3
+        }, {
+            "bracket": 508500,
+            "marginal_rate": 12.3
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Head Of Household)",
+            "deduction_amount": 3841
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+
+        ]
+    }
+}

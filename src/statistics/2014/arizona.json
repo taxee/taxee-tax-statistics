@@ -1,0 +1,126 @@
+{
+    "single": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 2.59
+        }, {
+            "bracket": 10000,
+            "marginal_rate": 2.88
+        }, {
+            "bracket": 25000,
+            "marginal_rate": 3.36
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 4.24
+        }, {
+            "bracket": 150000,
+            "marginal_rate": 4.54
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Single)",
+            "deduction_amount": 4833
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Arizona tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 2.59
+        }, {
+            "bracket": 20000,
+            "marginal_rate": 2.88
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 3.36
+        }, {
+            "bracket": 100000,
+            "marginal_rate": 4.24
+        }, {
+            "bracket": 300000,
+            "marginal_rate": 4.54
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married)",
+            "deduction_amount": 9665
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Arizona tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "married_separately": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 2.59
+        }, {
+            "bracket": 10000,
+            "marginal_rate": 2.88
+        }, {
+            "bracket": 25000,
+            "marginal_rate": 3.36
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 4.24
+        }, {
+            "bracket": 150000,
+            "marginal_rate": 4.54
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Married Separately)",
+            "deduction_amount": 4833
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Arizona tax brackets used in this calculation are from tax year 2012."
+        ]
+    },
+    "head_of_household": {
+        "income_tax_brackets": [{
+            "bracket": 0,
+            "marginal_rate": 2.59
+        }, {
+            "bracket": 10000,
+            "marginal_rate": 2.88
+        }, {
+            "bracket": 25000,
+            "marginal_rate": 3.36
+        }, {
+            "bracket": 50000,
+            "marginal_rate": 4.24
+        }, {
+            "bracket": 150000,
+            "marginal_rate": 4.54
+        }],
+        "special_taxes": [
+
+        ],
+        "deductions": [{
+            "deduction_name": "Standard Deduction (Head Of Household)",
+            "deduction_amount": 4833
+        }],
+        "credits": [
+
+        ],
+        "annotations": [
+            "Please note that due to data availability, the Arizona tax brackets used in this calculation are from tax year 2012."
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "taxee-tax-statistics",
+  "version": "1.0.0",
+  "description": "Federal & state tax brackets and statistics used on https://taxee.io",
+  "author": "Taxee <support@taxee.io> (https://taxee.io)",
+  "private": false,
+  "keywords": [
+    "taxee",
+    "taxes",
+    "tax",
+    "federal",
+    "income tax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taxee/taxee-tax-statistics.git"
+  },
+  "scripts": {
+    "build": "webpack --config=./webpack/webpack.config.js"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "eslintConfig": {
+    "extends": "./config/eslint.js"
+  },
+  "main": "./dist/index.js",
+  "dependencies": {
+    "babel-cli": "^6.14.0",
+    "webpack": "^1.13.2",
+    "webpack-cli": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-stage-2": "^6.13.0",
+    "json-loader": "^0.5.4"
+  }
+}
