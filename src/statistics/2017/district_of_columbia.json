@@ -28,6 +28,10 @@
             },
             {
                 "bracket": 350000,
+                "marginal_rate": 8.75
+            },
+            {
+                "bracket": 1000000,
                 "marginal_rate": 8.95
             }
         ]
@@ -61,6 +65,10 @@
             },
             {
                 "bracket": 350000,
+                "marginal_rate": 8.75
+            },
+            {
+                "bracket": 1000000,
                 "marginal_rate": 8.95
             }
         ]
@@ -127,6 +135,10 @@
             },
             {
                 "bracket": 350000,
+                "marginal_rate": 8.75
+            },
+            {
+                "bracket": 1000000,
                 "marginal_rate": 8.95
             }
         ]

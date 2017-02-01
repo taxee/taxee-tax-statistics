@@ -4,7 +4,7 @@
         "deductions": [
             {
                 "deduction_name": "Standard Deduction (Single)",
-                "deduction_amount": 8000
+                "deduction_amount": 8300
             }
         ],
         "credits": [],
@@ -15,11 +15,11 @@
                 "marginal_rate": 3.75
             },
             {
-                "bracket": 60550,
+                "bracket": 60850,
                 "marginal_rate": 4.75
             },
             {
-                "bracket": 137650,
+                "bracket": 138300,
                 "marginal_rate": 5.99
             }
         ]
@@ -29,7 +29,7 @@
         "deductions": [
             {
                 "deduction_name": "Standard Deduction (Married)",
-                "deduction_amount": 16000
+                "deduction_amount": 16600
             }
         ],
         "credits": [],
@@ -40,11 +40,11 @@
                 "marginal_rate": 3.75
             },
             {
-                "bracket": 60550,
+                "bracket": 60850,
                 "marginal_rate": 4.75
             },
             {
-                "bracket": 137650,
+                "bracket": 138300,
                 "marginal_rate": 5.99
             }
         ]
@@ -54,7 +54,7 @@
         "deductions": [
             {
                 "deduction_name": "Standard Deduction (Married Separately)",
-                "deduction_amount": 8000
+                "deduction_amount": 8300
             }
         ],
         "credits": [],
@@ -65,11 +65,11 @@
                 "marginal_rate": 3.75
             },
             {
-                "bracket": 60550,
+                "bracket": 60850,
                 "marginal_rate": 4.75
             },
             {
-                "bracket": 137650,
+                "bracket": 138300,
                 "marginal_rate": 5.99
             }
         ]
@@ -79,7 +79,7 @@
         "deductions": [
             {
                 "deduction_name": "Standard Deduction (Head Of Household)",
-                "deduction_amount": 8000
+                "deduction_amount": 8300
             }
         ],
         "credits": [],
@@ -90,11 +90,11 @@
                 "marginal_rate": 3.75
             },
             {
-                "bracket": 60550,
+                "bracket": 60850,
                 "marginal_rate": 4.75
             },
             {
-                "bracket": 137650,
+                "bracket": 138300,
                 "marginal_rate": 5.99
             }
         ]

@@ -15,23 +15,23 @@
                 "marginal_rate": 0.9
             },
             {
-                "bracket": 4300,
-                "marginal_rate": 2.4
+                "bracket": 4299,
+                "marginal_rate": 2.5
             },
             {
-                "bracket": 8400,
-                "marginal_rate": 3.4
+                "bracket": 8399,
+                "marginal_rate": 3.5
             },
             {
-                "bracket": 12600,
-                "marginal_rate": 4.4
+                "bracket": 12599,
+                "marginal_rate": 4.5
             },
             {
-                "bracket": 21000,
-                "marginal_rate": 5.9
+                "bracket": 20999,
+                "marginal_rate": 6
             },
             {
-                "bracket": 35300,
+                "bracket": 35099,
                 "marginal_rate": 6.9
             }
         ]
@@ -52,23 +52,23 @@
                 "marginal_rate": 0.9
             },
             {
-                "bracket": 4300,
-                "marginal_rate": 2.4
+                "bracket": 4299,
+                "marginal_rate": 2.5
             },
             {
-                "bracket": 8400,
-                "marginal_rate": 3.4
+                "bracket": 8399,
+                "marginal_rate": 3.5
             },
             {
-                "bracket": 12600,
-                "marginal_rate": 4.4
+                "bracket": 12599,
+                "marginal_rate": 4.5
             },
             {
-                "bracket": 21000,
-                "marginal_rate": 5.9
+                "bracket": 20999,
+                "marginal_rate": 6
             },
             {
-                "bracket": 35100,
+                "bracket": 35099,
                 "marginal_rate": 6.9
             }
         ]
@@ -89,23 +89,23 @@
                 "marginal_rate": 0.9
             },
             {
-                "bracket": 4300,
-                "marginal_rate": 2.4
+                "bracket": 4299,
+                "marginal_rate": 2.5
             },
             {
-                "bracket": 8400,
-                "marginal_rate": 3.4
+                "bracket": 8399,
+                "marginal_rate": 3.5
             },
             {
-                "bracket": 12600,
-                "marginal_rate": 4.4
+                "bracket": 12599,
+                "marginal_rate": 4.5
             },
             {
-                "bracket": 21000,
-                "marginal_rate": 5.9
+                "bracket": 20999,
+                "marginal_rate": 6
             },
             {
-                "bracket": 35100,
+                "bracket": 35099,
                 "marginal_rate": 6.9
             }
         ]
@@ -126,23 +126,23 @@
                 "marginal_rate": 0.9
             },
             {
-                "bracket": 4300,
-                "marginal_rate": 2.4
+                "bracket": 4299,
+                "marginal_rate": 2.5
             },
             {
-                "bracket": 8400,
-                "marginal_rate": 3.4
+                "bracket": 8399,
+                "marginal_rate": 3.5
             },
             {
-                "bracket": 12600,
-                "marginal_rate": 4.4
+                "bracket": 12599,
+                "marginal_rate": 4.5
             },
             {
-                "bracket": 21000,
-                "marginal_rate": 5.9
+                "bracket": 20999,
+                "marginal_rate": 6
             },
             {
-                "bracket": 35100,
+                "bracket": 35099,
                 "marginal_rate": 6.9
             }
         ]

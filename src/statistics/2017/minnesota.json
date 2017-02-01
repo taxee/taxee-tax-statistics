@@ -15,15 +15,15 @@
                 "marginal_rate": 5.35
             },
             {
-                "bracket": 25070,
+                "bracket": 25180,
                 "marginal_rate": 7.05
             },
             {
-                "bracket": 82360,
+                "bracket": 82740,
                 "marginal_rate": 7.85
             },
             {
-                "bracket": 154950,
+                "bracket": 155650,
                 "marginal_rate": 9.85
             }
         ]
@@ -44,15 +44,15 @@
                 "marginal_rate": 5.35
             },
             {
-                "bracket": 36650,
+                "bracket": 36820,
                 "marginal_rate": 7.05
             },
             {
-                "bracket": 145620,
+                "bracket": 146270,
                 "marginal_rate": 7.85
             },
             {
-                "bracket": 258260,
+                "bracket": 259420,
                 "marginal_rate": 9.85
             }
         ]
@@ -73,15 +73,15 @@
                 "marginal_rate": 5.35
             },
             {
-                "bracket": 18330,
+                "bracket": 25180,
                 "marginal_rate": 7.05
             },
             {
-                "bracket": 72810,
+                "bracket": 82740,
                 "marginal_rate": 7.85
             },
             {
-                "bracket": 129130,
+                "bracket": 155650,
                 "marginal_rate": 9.85
             }
         ]
@@ -102,15 +102,15 @@
                 "marginal_rate": 5.35
             },
             {
-                "bracket": 30870,
+                "bracket": 25180,
                 "marginal_rate": 7.05
             },
             {
-                "bracket": 124040,
+                "bracket": 82740,
                 "marginal_rate": 7.85
             },
             {
-                "bracket": 206610,
+                "bracket": 155650,
                 "marginal_rate": 9.85
             }
         ]
