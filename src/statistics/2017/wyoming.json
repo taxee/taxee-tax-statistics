@@ -1,14 +1,25 @@
 {
-    "single": {
-        "type": "none"
+    "tax_withholding_percentage_method_tables": {
+        "annual": {
+            "married_separately": {
+                "type": "none"
+            },
+            "single": {
+                "type": "none"
+            },
+            "head_of_household": {
+                "type": "none"
+            },
+            "married": {
+                "type": "none"
+            }
+        }
     },
-    "married": {
-        "type": "none"
-    },
-    "married_separately": {
-        "type": "none"
-    },
-    "head_of_household": {
-        "type": "none"
-    }
+    "supplemental_tax_rates": [
+        {
+            "rate_delimiter_description": "Unknown",
+            "rate": null,
+            "rate_delimiter": null
+        }
+    ]
 }
