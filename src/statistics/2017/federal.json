@@ -186,5 +186,17 @@
                 }]
             }
         }
-    }
+    },
+    "supplemental_tax_rates": [
+        {
+            "rate_delimiter": 0,
+            "rate_delimiter_description": "Income less than or equal to $1 million",
+            "rate": 25
+        },
+        {
+            "delimiter": 1000000,
+            "rate_delimiter_description": "Income greater than $1 million",
+            "rate": 39.6
+        }
+    ]
 }

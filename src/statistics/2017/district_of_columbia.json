@@ -1,146 +1,157 @@
 {
-    "single": {
-        "specialtaxes": [],
-        "deductions": [
-            {
-                "deduction_name": "Standard Deduction (Single)",
-                "deduction_amount": 5200
+    "tax_withholding_percentage_method_tables": {
+        "annual": {
+            "married_separately": {
+                "annotations": [],
+                "credits": [],
+                "specialtaxes": [],
+                "income_tax_brackets": [
+                    {
+                        "bracket": 0,
+                        "marginal_rate": 4
+                    },
+                    {
+                        "bracket": 10000,
+                        "marginal_rate": 6
+                    },
+                    {
+                        "bracket": 40000,
+                        "marginal_rate": 7
+                    },
+                    {
+                        "bracket": 60000,
+                        "marginal_rate": 8.5
+                    },
+                    {
+                        "bracket": 350000,
+                        "marginal_rate": 8.95
+                    }
+                ],
+                "deductions": [
+                    {
+                        "deduction_name": "Standard Deduction (Married Separately)",
+                        "deduction_amount": 5200
+                    }
+                ]
+            },
+            "single": {
+                "annotations": [],
+                "credits": [],
+                "specialtaxes": [],
+                "income_tax_brackets": [
+                    {
+                        "bracket": 0,
+                        "marginal_rate": 4
+                    },
+                    {
+                        "bracket": 10000,
+                        "marginal_rate": 6
+                    },
+                    {
+                        "bracket": 40000,
+                        "marginal_rate": 7
+                    },
+                    {
+                        "bracket": 60000,
+                        "marginal_rate": 8.5
+                    },
+                    {
+                        "bracket": 350000,
+                        "marginal_rate": 8.75
+                    },
+                    {
+                        "bracket": 1000000,
+                        "marginal_rate": 8.95
+                    }
+                ],
+                "deductions": [
+                    {
+                        "deduction_name": "Standard Deduction (Single)",
+                        "deduction_amount": 5200
+                    }
+                ]
+            },
+            "head_of_household": {
+                "annotations": [],
+                "credits": [],
+                "specialtaxes": [],
+                "income_tax_brackets": [
+                    {
+                        "bracket": 0,
+                        "marginal_rate": 4
+                    },
+                    {
+                        "bracket": 10000,
+                        "marginal_rate": 6
+                    },
+                    {
+                        "bracket": 40000,
+                        "marginal_rate": 7
+                    },
+                    {
+                        "bracket": 60000,
+                        "marginal_rate": 8.5
+                    },
+                    {
+                        "bracket": 350000,
+                        "marginal_rate": 8.75
+                    },
+                    {
+                        "bracket": 1000000,
+                        "marginal_rate": 8.95
+                    }
+                ],
+                "deductions": [
+                    {
+                        "deduction_name": "Standard Deduction (Head Of Household)",
+                        "deduction_amount": 5200
+                    }
+                ]
+            },
+            "married": {
+                "annotations": [],
+                "credits": [],
+                "specialtaxes": [],
+                "income_tax_brackets": [
+                    {
+                        "bracket": 0,
+                        "marginal_rate": 4
+                    },
+                    {
+                        "bracket": 10000,
+                        "marginal_rate": 6
+                    },
+                    {
+                        "bracket": 40000,
+                        "marginal_rate": 7
+                    },
+                    {
+                        "bracket": 60000,
+                        "marginal_rate": 8.5
+                    },
+                    {
+                        "bracket": 350000,
+                        "marginal_rate": 8.75
+                    },
+                    {
+                        "bracket": 1000000,
+                        "marginal_rate": 8.95
+                    }
+                ],
+                "deductions": [
+                    {
+                        "deduction_name": "Standard Deduction (Married)",
+                        "deduction_amount": 8350
+                    }
+                ]
             }
-        ],
-        "credits": [],
-        "annotations": [],
-        "income_tax_brackets": [
-            {
-                "bracket": 0,
-                "marginal_rate": 4
-            },
-            {
-                "bracket": 10000,
-                "marginal_rate": 6
-            },
-            {
-                "bracket": 40000,
-                "marginal_rate": 7
-            },
-            {
-                "bracket": 60000,
-                "marginal_rate": 8.5
-            },
-            {
-                "bracket": 350000,
-                "marginal_rate": 8.75
-            },
-            {
-                "bracket": 1000000,
-                "marginal_rate": 8.95
-            }
-        ]
+        }
     },
-    "married": {
-        "specialtaxes": [],
-        "deductions": [
-            {
-                "deduction_name": "Standard Deduction (Married)",
-                "deduction_amount": 8350
-            }
-        ],
-        "credits": [],
-        "annotations": [],
-        "income_tax_brackets": [
-            {
-                "bracket": 0,
-                "marginal_rate": 4
-            },
-            {
-                "bracket": 10000,
-                "marginal_rate": 6
-            },
-            {
-                "bracket": 40000,
-                "marginal_rate": 7
-            },
-            {
-                "bracket": 60000,
-                "marginal_rate": 8.5
-            },
-            {
-                "bracket": 350000,
-                "marginal_rate": 8.75
-            },
-            {
-                "bracket": 1000000,
-                "marginal_rate": 8.95
-            }
-        ]
-    },
-    "married_separately": {
-        "specialtaxes": [],
-        "deductions": [
-            {
-                "deduction_name": "Standard Deduction (Married Separately)",
-                "deduction_amount": 5200
-            }
-        ],
-        "credits": [],
-        "annotations": [],
-        "income_tax_brackets": [
-            {
-                "bracket": 0,
-                "marginal_rate": 4
-            },
-            {
-                "bracket": 10000,
-                "marginal_rate": 6
-            },
-            {
-                "bracket": 40000,
-                "marginal_rate": 7
-            },
-            {
-                "bracket": 60000,
-                "marginal_rate": 8.5
-            },
-            {
-                "bracket": 350000,
-                "marginal_rate": 8.95
-            }
-        ]
-    },
-    "head_of_household": {
-        "specialtaxes": [],
-        "deductions": [
-            {
-                "deduction_name": "Standard Deduction (Head Of Household)",
-                "deduction_amount": 5200
-            }
-        ],
-        "credits": [],
-        "annotations": [],
-        "income_tax_brackets": [
-            {
-                "bracket": 0,
-                "marginal_rate": 4
-            },
-            {
-                "bracket": 10000,
-                "marginal_rate": 6
-            },
-            {
-                "bracket": 40000,
-                "marginal_rate": 7
-            },
-            {
-                "bracket": 60000,
-                "marginal_rate": 8.5
-            },
-            {
-                "bracket": 350000,
-                "marginal_rate": 8.75
-            },
-            {
-                "bracket": 1000000,
-                "marginal_rate": 8.95
-            }
-        ]
-    }
+    "supplemental_tax_rates": [
+        {
+            "rate_delimiter_description": "Unknown",
+            "rate": null,
+            "rate_delimiter": null
+        }
+    ]
 }
