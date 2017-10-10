@@ -45,18 +45,6 @@
             {
                 "bracket": 48000,
                 "marginal_rate": 8.25
-            },
-            {
-                "bracket": 150000,
-                "marginal_rate": 9
-            },
-            {
-                "bracket": 175000,
-                "marginal_rate": 10
-            },
-            {
-                "bracket": 200000,
-                "marginal_rate": 11
             }
         ]
     },
@@ -106,18 +94,6 @@
             {
                 "bracket": 96000,
                 "marginal_rate": 8.25
-            },
-            {
-                "bracket": 300000,
-                "marginal_rate": 9
-            },
-            {
-                "bracket": 350000,
-                "marginal_rate": 10
-            },
-            {
-                "bracket": 400000,
-                "marginal_rate": 11
             }
         ]
     },
@@ -167,18 +143,6 @@
             {
                 "bracket": 48000,
                 "marginal_rate": 8.25
-            },
-            {
-                "bracket": 150000,
-                "marginal_rate": 9
-            },
-            {
-                "bracket": 175000,
-                "marginal_rate": 10
-            },
-            {
-                "bracket": 200000,
-                "marginal_rate": 11
             }
         ]
     },
@@ -228,18 +192,6 @@
             {
                 "bracket": 72000,
                 "marginal_rate": 8.25
-            },
-            {
-                "bracket": 225000,
-                "marginal_rate": 9
-            },
-            {
-                "bracket": 262500,
-                "marginal_rate": 10
-            },
-            {
-                "bracket": 300000,
-                "marginal_rate": 11
             }
         ]
     }

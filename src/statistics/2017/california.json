@@ -45,6 +45,10 @@
             {
                 "bracket": 526443,
                 "marginal_rate": 12.3
+            },
+            {
+                "bracket": 1000000,
+                "marginal_rate": 13.3
             }
         ]
     },
@@ -92,8 +96,12 @@
                 "marginal_rate": 11.3
             },
             {
-                "bracket": 1052886,
+                "bracket": 1000000,
                 "marginal_rate": 12.3
+            },
+            {
+                "bracket": 1052886,
+                "marginal_rate": 13.3
             }
         ]
     },
@@ -143,6 +151,10 @@
             {
                 "bracket": 526443,
                 "marginal_rate": 12.3
+            },
+            {
+                "bracket": 1000000,
+                "marginal_rate": 13.3
             }
         ]
     },
@@ -192,6 +204,10 @@
             {
                 "bracket": 715962,
                 "marginal_rate": 12.3
+            },
+            {
+                "bracket": 1000000,
+                "marginal_rate": 13.3
             }
         ]
     }

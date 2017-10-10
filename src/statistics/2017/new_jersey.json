@@ -114,15 +114,19 @@
                 "marginal_rate": 1.75
             },
             {
-                "bracket": 35000,
+                "bracket": 50000,
+                "marginal_rate": 2.45
+            },
+            {
+                "bracket": 70000,
                 "marginal_rate": 3.5
             },
             {
-                "bracket": 40000,
+                "bracket": 80000,
                 "marginal_rate": 5.525
             },
             {
-                "bracket": 75000,
+                "bracket": 150000,
                 "marginal_rate": 6.37
             },
             {

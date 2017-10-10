@@ -126,24 +126,28 @@
                 "marginal_rate": 0.5
             },
             {
-                "bracket": 1000,
+                "bracket": 2000,
                 "marginal_rate": 1
             },
             {
-                "bracket": 2500,
+                "bracket": 5000,
                 "marginal_rate": 2
             },
             {
-                "bracket": 3750,
+                "bracket": 7500,
                 "marginal_rate": 3
             },
             {
-                "bracket": 4900,
+                "bracket": 9800,
                 "marginal_rate": 4
             },
             {
-                "bracket": 7200,
+                "bracket": 12200,
                 "marginal_rate": 5
+            },
+            {
+                "bracket": 15000,
+                "marginal_rate": 5.25
             }
         ]
     }

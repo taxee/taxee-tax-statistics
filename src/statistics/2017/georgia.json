@@ -89,23 +89,23 @@
                 "marginal_rate": 1
             },
             {
-                "bracket": 500,
+                "bracket": 750,
                 "marginal_rate": 2
             },
             {
-                "bracket": 1500,
+                "bracket": 2250,
                 "marginal_rate": 3
             },
             {
-                "bracket": 2500,
+                "bracket": 3750,
                 "marginal_rate": 4
             },
             {
-                "bracket": 3500,
+                "bracket": 5250,
                 "marginal_rate": 5
             },
             {
-                "bracket": 5000,
+                "bracket": 7000,
                 "marginal_rate": 6
             }
         ]

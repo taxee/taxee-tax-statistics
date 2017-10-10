@@ -19,7 +19,7 @@
                 "marginal_rate": 3.6
             },
             {
-                "bracket": 2904,
+                "bracket": 2940,
                 "marginal_rate": 4.1
             },
             {
@@ -35,7 +35,7 @@
                 "marginal_rate": 7.1
             },
             {
-                "bracket": 10898,
+                "bracket": 10890,
                 "marginal_rate": 7.4
             }
         ]
@@ -101,7 +101,7 @@
                 "marginal_rate": 3.6
             },
             {
-                "bracket": 2904,
+                "bracket": 2940,
                 "marginal_rate": 4.1
             },
             {
@@ -117,7 +117,7 @@
                 "marginal_rate": 7.1
             },
             {
-                "bracket": 10898,
+                "bracket": 10890,
                 "marginal_rate": 7.4
             }
         ]

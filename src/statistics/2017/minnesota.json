@@ -73,15 +73,15 @@
                 "marginal_rate": 5.35
             },
             {
-                "bracket": 25180,
+                "bracket": 18410,
                 "marginal_rate": 7.05
             },
             {
-                "bracket": 82740,
+                "bracket": 73140,
                 "marginal_rate": 7.85
             },
             {
-                "bracket": 155650,
+                "bracket": 129710,
                 "marginal_rate": 9.85
             }
         ]
@@ -102,15 +102,15 @@
                 "marginal_rate": 5.35
             },
             {
-                "bracket": 25180,
+                "bracket": 31010,
                 "marginal_rate": 7.05
             },
             {
-                "bracket": 82740,
+                "bracket": 124600,
                 "marginal_rate": 7.85
             },
             {
-                "bracket": 155650,
+                "bracket": 207540,
                 "marginal_rate": 9.85
             }
         ]
