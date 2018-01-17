@@ -1,0 +1,146 @@
+{
+    "single": {
+        "specialtaxes": [],
+        "deductions": [],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 3
+            },
+            {
+                "bracket": 10000,
+                "marginal_rate": 5
+            },
+            {
+                "bracket": 50000,
+                "marginal_rate": 5.5
+            },
+            {
+                "bracket": 100000,
+                "marginal_rate": 6
+            },
+            {
+                "bracket": 200000,
+                "marginal_rate": 6.5
+            },
+            {
+                "bracket": 250000,
+                "marginal_rate": 6.9
+            },
+            {
+                "bracket": 500000,
+                "marginal_rate": 6.99
+            }
+        ]
+    },
+    "married": {
+        "specialtaxes": [],
+        "deductions": [],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 3
+            },
+            {
+                "bracket": 20000,
+                "marginal_rate": 5
+            },
+            {
+                "bracket": 100000,
+                "marginal_rate": 5.5
+            },
+            {
+                "bracket": 200000,
+                "marginal_rate": 6
+            },
+            {
+                "bracket": 400000,
+                "marginal_rate": 6.5
+            },
+            {
+                "bracket": 500000,
+                "marginal_rate": 6.9
+            },
+            {
+                "bracket": 1000000,
+                "marginal_rate": 6.99
+            }
+        ]
+    },
+    "married_separately": {
+        "specialtaxes": [],
+        "deductions": [],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 3
+            },
+            {
+                "bracket": 10000,
+                "marginal_rate": 5
+            },
+            {
+                "bracket": 50000,
+                "marginal_rate": 5.5
+            },
+            {
+                "bracket": 100000,
+                "marginal_rate": 6
+            },
+            {
+                "bracket": 200000,
+                "marginal_rate": 6.5
+            },
+            {
+                "bracket": 250000,
+                "marginal_rate": 6.9
+            },
+            {
+                "bracket": 500000,
+                "marginal_rate": 6.99
+            }
+        ]
+    },
+    "head_of_household": {
+        "specialtaxes": [],
+        "deductions": [],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 3
+            },
+            {
+                "bracket": 16000,
+                "marginal_rate": 5
+            },
+            {
+                "bracket": 80000,
+                "marginal_rate": 5.5
+            },
+            {
+                "bracket": 160000,
+                "marginal_rate": 6
+            },
+            {
+                "bracket": 320000,
+                "marginal_rate": 6.5
+            },
+            {
+                "bracket": 400000,
+                "marginal_rate": 6.9
+            },
+            {
+                "bracket": 800000,
+                "marginal_rate": 6.99
+            }
+        ]
+    }
+}
