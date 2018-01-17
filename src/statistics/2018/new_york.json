@@ -1,0 +1,182 @@
+{
+    "single": {
+        "specialtaxes": [],
+        "deductions": [
+            {
+                "deduction_name": "Standard Deduction (Single)",
+                "deduction_amount": 7950
+            }
+        ],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 4
+            },
+            {
+                "bracket": 8400,
+                "marginal_rate": 4.5
+            },
+            {
+                "bracket": 11600,
+                "marginal_rate": 5.25
+            },
+            {
+                "bracket": 13750,
+                "marginal_rate": 5.9
+            },
+            {
+                "bracket": 21150,
+                "marginal_rate": 6.45
+            },
+            {
+                "bracket": 79600,
+                "marginal_rate": 6.65
+            },
+            {
+                "bracket": 212500,
+                "marginal_rate": 6.85
+            },
+            {
+                "bracket": 1062650,
+                "marginal_rate": 8.82
+            }
+        ]
+    },
+    "married": {
+        "specialtaxes": [],
+        "deductions": [
+            {
+                "deduction_name": "Standard Deduction (Married)",
+                "deduction_amount": 15950
+            }
+        ],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 4
+            },
+            {
+                "bracket": 16950,
+                "marginal_rate": 4.5
+            },
+            {
+                "bracket": 23300,
+                "marginal_rate": 5.25
+            },
+            {
+                "bracket": 27550,
+                "marginal_rate": 5.9
+            },
+            {
+                "bracket": 42450,
+                "marginal_rate": 6.45
+            },
+            {
+                "bracket": 159350,
+                "marginal_rate": 6.65
+            },
+            {
+                "bracket": 318750,
+                "marginal_rate": 6.85
+            },
+            {
+                "bracket": 2125450,
+                "marginal_rate": 8.82
+            }
+        ]
+    },
+    "married_separately": {
+        "specialtaxes": [],
+        "deductions": [
+            {
+                "deduction_name": "Standard Deduction (Married Separately)",
+                "deduction_amount": 7950
+            }
+        ],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 4
+            },
+            {
+                "bracket": 8400,
+                "marginal_rate": 4.5
+            },
+            {
+                "bracket": 11600,
+                "marginal_rate": 5.25
+            },
+            {
+                "bracket": 13750,
+                "marginal_rate": 5.9
+            },
+            {
+                "bracket": 21150,
+                "marginal_rate": 6.45
+            },
+            {
+                "bracket": 79600,
+                "marginal_rate": 6.65
+            },
+            {
+                "bracket": 212500,
+                "marginal_rate": 6.85
+            },
+            {
+                "bracket": 1062650,
+                "marginal_rate": 8.82
+            }
+        ]
+    },
+    "head_of_household": {
+        "specialtaxes": [],
+        "deductions": [
+            {
+                "deduction_name": "Standard Deduction (Head Of Household)",
+                "deduction_amount": 11100
+            }
+        ],
+        "credits": [],
+        "annotations": [],
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 4
+            },
+            {
+                "bracket": 12700,
+                "marginal_rate": 4.5
+            },
+            {
+                "bracket": 17450,
+                "marginal_rate": 5.25
+            },
+            {
+                "bracket": 20650,
+                "marginal_rate": 5.9
+            },
+            {
+                "bracket": 31800,
+                "marginal_rate": 6.45
+            },
+            {
+                "bracket": 106200,
+                "marginal_rate": 6.65
+            },
+            {
+                "bracket": 265600,
+                "marginal_rate": 6.85
+            },
+            {
+                "bracket": 1594050,
+                "marginal_rate": 8.82
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "single": {
+        "type": "none"
+    },
+    "married": {
+        "type": "none"
+    },
+    "married_separately": {
+        "type": "none"
+    },
+    "head_of_household": {
+        "type": "none"
+    }
+}
