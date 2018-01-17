@@ -7,7 +7,7 @@
         "income_tax_brackets": [
             {
                 "bracket": 0,
-                "marginal_rate": 3.3
+                "marginal_rate": 3.23
             }
         ]
     },
@@ -19,7 +19,7 @@
         "income_tax_brackets": [
             {
                 "bracket": 0,
-                "marginal_rate": 3.3
+                "marginal_rate": 3.23
             }
         ]
     },
@@ -31,7 +31,7 @@
         "income_tax_brackets": [
             {
                 "bracket": 0,
-                "marginal_rate": 3.3
+                "marginal_rate": 3.23
             }
         ]
     },
@@ -43,7 +43,7 @@
         "income_tax_brackets": [
             {
                 "bracket": 0,
-                "marginal_rate": 3.3
+                "marginal_rate": 3.23
             }
         ]
     }

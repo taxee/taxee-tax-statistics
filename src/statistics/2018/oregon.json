@@ -19,7 +19,7 @@
                 "marginal_rate": 7
             },
             {
-                "bracket": 8450,
+                "bracket": 8400,
                 "marginal_rate": 9
             },
             {
@@ -48,7 +48,7 @@
                 "marginal_rate": 7
             },
             {
-                "bracket": 16900,
+                "bracket": 16800,
                 "marginal_rate": 9
             },
             {
@@ -77,7 +77,7 @@
                 "marginal_rate": 7
             },
             {
-                "bracket": 8450,
+                "bracket": 8400,
                 "marginal_rate": 9
             },
             {
@@ -102,15 +102,15 @@
                 "marginal_rate": 5
             },
             {
-                "bracket": 3350,
+                "bracket": 6700,
                 "marginal_rate": 7
             },
             {
-                "bracket": 8450,
+                "bracket": 16800,
                 "marginal_rate": 9
             },
             {
-                "bracket": 125000,
+                "bracket": 250000,
                 "marginal_rate": 9.9
             }
         ]

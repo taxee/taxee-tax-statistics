@@ -11,7 +11,7 @@
         "annotations": [],
         "income_tax_brackets": [
             {
-                "bracket": 1,
+                "bracket": 0,
                 "marginal_rate": 1.6
             },
             {
@@ -52,7 +52,7 @@
         "annotations": [],
         "income_tax_brackets": [
             {
-                "bracket": 1,
+                "bracket": 0,
                 "marginal_rate": 1.6
             },
             {
@@ -93,7 +93,7 @@
         "annotations": [],
         "income_tax_brackets": [
             {
-                "bracket": 1,
+                "bracket": 0,
                 "marginal_rate": 1.6
             },
             {
@@ -134,7 +134,7 @@
         "annotations": [],
         "income_tax_brackets": [
             {
-                "bracket": 1,
+                "bracket": 0,
                 "marginal_rate": 1.6
             },
             {
