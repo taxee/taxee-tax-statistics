@@ -11,18 +11,18 @@ The following example shows how you would import and reference tax statistics co
 ```
 import Taxee from 'taxee-tax-statistics';
 
-const 2017 = Taxee.2017;
-const federalStats = 2017.TAX_DATA.federal;
-const michiganStats = 2017.TAX_DATA.michigan;
+const 2019 = Taxee.2019;
+const federalStats = 2019.TAX_DATA.federal;
+const michiganStats = 2019.TAX_DATA.michigan;
 ```
 
 ## Are you using Taxee stats?
 
-We'd love to know!  Create an issue in this repo and tell us more. 
+We'd love to know! Create an issue in this repo and tell us more.
 
 ## Contributors
 
-While federal tax brackets are updated at a known frequency (once a year), state tax brackets can change at any time.  The Taxee team will update the tax brackets contained in this repository every 3 months.  If you find a discrepancy, feel free to submit a pull request or create an issue - we'd appreciate it! 
+While federal tax brackets are updated at a known frequency (once a year), state tax brackets can change at any time. The Taxee team will update the tax brackets contained in this repository every 3 months. If you find a discrepancy, feel free to submit a pull request or create an issue - we'd appreciate it!
 
 ## License
 
