@@ -1,0 +1,82 @@
+{
+  "single": {
+    "specialtaxes": [],
+    "deductions": [
+      {
+        "deduction_name": "Standard Deduction (Single)",
+        "deduction_amount": 6300
+      }
+    ],
+    "credits": [],
+    "annotations": [],
+    "income_tax_brackets": [
+      { "bracket": 0, "marginal_rate": 1.125 },
+      { "bracket": 1504, "marginal_rate": 3.125 },
+      { "bracket": 3008, "marginal_rate": 3.625 },
+      { "bracket": 4511, "marginal_rate": 4.625 },
+      { "bracket": 6015, "marginal_rate": 5.625 },
+      { "bracket": 7519, "marginal_rate": 6.625 },
+      { "bracket": 11279, "marginal_rate": 6.925 }
+    ]
+  },
+  "married": {
+    "specialtaxes": [],
+    "deductions": [
+      {
+        "deduction_name": "Standard Deduction (Married)",
+        "deduction_amount": 12600
+      }
+    ],
+    "credits": [],
+    "annotations": [],
+    "income_tax_brackets": [
+      { "bracket": 0, "marginal_rate": 1.125 },
+      { "bracket": 3008, "marginal_rate": 3.125 },
+      { "bracket": 6016, "marginal_rate": 3.625 },
+      { "bracket": 9022, "marginal_rate": 4.625 },
+      { "bracket": 12030, "marginal_rate": 5.625 },
+      { "bracket": 15038, "marginal_rate": 6.625 },
+      { "bracket": 22558, "marginal_rate": 6.925 }
+    ]
+  },
+  "married_separately": {
+    "specialtaxes": [],
+    "deductions": [
+      {
+        "deduction_name": "Standard Deduction (Married Separately)",
+        "deduction_amount": 6300
+      }
+    ],
+    "credits": [],
+    "annotations": [],
+    "income_tax_brackets": [
+      { "bracket": 0, "marginal_rate": 1.125 },
+      { "bracket": 1504, "marginal_rate": 3.125 },
+      { "bracket": 3008, "marginal_rate": 3.625 },
+      { "bracket": 4511, "marginal_rate": 4.625 },
+      { "bracket": 6015, "marginal_rate": 5.625 },
+      { "bracket": 7519, "marginal_rate": 6.625 },
+      { "bracket": 11279, "marginal_rate": 6.925 }
+    ]
+  },
+  "head_of_household": {
+    "specialtaxes": [],
+    "deductions": [
+      {
+        "deduction_name": "Standard Deduction (Head Of Household)",
+        "deduction_amount": 6300
+      }
+    ],
+    "credits": [],
+    "annotations": [],
+    "income_tax_brackets": [
+      { "bracket": 0, "marginal_rate": 1.125 },
+      { "bracket": 3008, "marginal_rate": 3.125 },
+      { "bracket": 6016, "marginal_rate": 3.625 },
+      { "bracket": 9022, "marginal_rate": 4.625 },
+      { "bracket": 12030, "marginal_rate": 5.625 },
+      { "bracket": 15038, "marginal_rate": 6.625 },
+      { "bracket": 22558, "marginal_rate": 6.925 }
+    ]
+  }
+}
