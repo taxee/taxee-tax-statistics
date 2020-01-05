@@ -103,5 +103,5 @@ export default {
   washington,
   west_virginia,
   wisconsin,
-  wyoming
-}
+  wyoming,
+};

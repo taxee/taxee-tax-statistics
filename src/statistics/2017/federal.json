@@ -1,190 +1,238 @@
 {
-    "tax_withholding_percentage_method_tables": {
-        "annual": {
-            "single": {
-                "income_tax_brackets": [{
-                    "bracket": 0,
-                    "marginal_rate": 10,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 0
-                }, {
-                    "bracket": 9325,
-                    "marginal_rate": 15,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 932.5
-                }, {
-                    "bracket": 37950,
-                    "marginal_rate": 25,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 5226.25
-                }, {
-                    "bracket": 91900,
-                    "marginal_rate": 28,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 18713.75
-                }, {
-                    "bracket": 191650,
-                    "marginal_rate": 33,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 46643.75
-                }, {
-                    "bracket": 416700,
-                    "marginal_rate": 35,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 120910.25
-                }, {
-                    "bracket": 418400,
-                    "marginal_rate": 39.6,
-                    "marginal_capital_gain_rate": 20,
-                    "amount": 121505.25
-                }],
-                "deductions": [{
-                    "deduction_name": "Standard Deduction (Single)",
-                    "deduction_amount": 6350
-                }],
-                "exemptions": [{
-                    "exemption_name": "Standard Exemption (Single)",
-                    "exemption_amount": 4050
-                }]
-            },
-            "married": {
-                "income_tax_brackets": [{
-                    "bracket": 0,
-                    "marginal_rate": 10,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 0
-                }, {
-                    "bracket": 18650,
-                    "marginal_rate": 15,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 1865
-                }, {
-                    "bracket": 75900,
-                    "marginal_rate": 25,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 10452.50
-                }, {
-                    "bracket": 153100,
-                    "marginal_rate": 28,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 29752.50
-                }, {
-                    "bracket": 233350,
-                    "marginal_rate": 33,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 52222.50
-                }, {
-                    "bracket": 416700,
-                    "marginal_rate": 35,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 112728
-                }, {
-                    "bracket": 470700,
-                    "marginal_rate": 39.6,
-                    "marginal_capital_gain_rate": 20,
-                    "amount": 131628
-                }],
-                "deductions": [{
-                    "deduction_name": "Standard Deduction (Married)",
-                    "deduction_amount": 12700
-                }],
-                "exemptions": [{
-                    "exemption_name": "Standard Exemption (Single)",
-                    "exemption_amount": 4050
-                }]
-            },
-            "married_separately": {
-                "income_tax_brackets": [{
-                    "bracket": 0,
-                    "marginal_rate": 10,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 0
-                }, {
-                    "bracket": 9325,
-                    "marginal_rate": 15,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 932.5
-                }, {
-                    "bracket": 37950,
-                    "marginal_rate": 25,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 5226.25
-                }, {
-                    "bracket": 76550,
-                    "marginal_rate": 28,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 18713.75
-                }, {
-                    "bracket": 116675,
-                    "marginal_rate": 33,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 46643.75
-                }, {
-                    "bracket": 208350,
-                    "marginal_rate": 35,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 120910.25
-                }, {
-                    "bracket": 235350,
-                    "marginal_rate": 39.6,
-                    "marginal_capital_gain_rate": 20,
-                    "amount": 121505.25
-                }],
-                "deductions": [{
-                    "deduction_name": "Standard Deduction (Married Filing Separately)",
-                    "deduction_amount": 6350
-                }],
-                "exemptions": [{
-                    "exemption_name": "Standard Exemption (Single)",
-                    "exemption_amount": 4050
-                }]
-            },
-            "head_of_household": {
-                "income_tax_brackets": [{
-                    "bracket": 0,
-                    "marginal_rate": 10,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 0
-                }, {
-                    "bracket": 13350,
-                    "marginal_rate": 15,
-                    "marginal_capital_gain_rate": 0,
-                    "amount": 1335
-                }, {
-                    "bracket": 50800,
-                    "marginal_rate": 25,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 6952.50
-                }, {
-                    "bracket": 131200,
-                    "marginal_rate": 28,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 27052.5
-                }, {
-                    "bracket": 212500,
-                    "marginal_rate": 33,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 49816.50
-                }, {
-                    "bracket": 416700,
-                    "marginal_rate": 35,
-                    "marginal_capital_gain_rate": 15,
-                    "amount": 117202.50
-                }, {
-                    "bracket": 444500,
-                    "marginal_rate": 39.6,
-                    "marginal_capital_gain_rate": 20,
-                    "amount": 126950
-                }],
-                "deductions": [{
-                    "deduction_name": "Standard Deduction (Head of Household)",
-                    "deduction_amount": 9350
-                }],
-                "exemptions": [{
-                    "exemption_name": "Standard Exemption (Single)",
-                    "exemption_amount": 4050
-                }]
-            }
-        }
+  "tax_withholding_percentage_method_tables": {
+    "annual": {
+      "single": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 10,
+            "marginal_capital_gain_rate": 0,
+            "amount": 0
+          },
+          {
+            "bracket": 9325,
+            "marginal_rate": 15,
+            "marginal_capital_gain_rate": 0,
+            "amount": 932.5
+          },
+          {
+            "bracket": 37950,
+            "marginal_rate": 25,
+            "marginal_capital_gain_rate": 15,
+            "amount": 5226.25
+          },
+          {
+            "bracket": 91900,
+            "marginal_rate": 28,
+            "marginal_capital_gain_rate": 15,
+            "amount": 18713.75
+          },
+          {
+            "bracket": 191650,
+            "marginal_rate": 33,
+            "marginal_capital_gain_rate": 15,
+            "amount": 46643.75
+          },
+          {
+            "bracket": 416700,
+            "marginal_rate": 35,
+            "marginal_capital_gain_rate": 15,
+            "amount": 120910.25
+          },
+          {
+            "bracket": 418400,
+            "marginal_rate": 39.6,
+            "marginal_capital_gain_rate": 20,
+            "amount": 121505.25
+          }
+        ],
+        "deductions": [
+          {
+            "deduction_name": "Standard Deduction (Single)",
+            "deduction_amount": 6350
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "Standard Exemption (Single)",
+            "exemption_amount": 4050
+          }
+        ]
+      },
+      "married": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 10,
+            "marginal_capital_gain_rate": 0,
+            "amount": 0
+          },
+          {
+            "bracket": 18650,
+            "marginal_rate": 15,
+            "marginal_capital_gain_rate": 0,
+            "amount": 1865
+          },
+          {
+            "bracket": 75900,
+            "marginal_rate": 25,
+            "marginal_capital_gain_rate": 15,
+            "amount": 10452.5
+          },
+          {
+            "bracket": 153100,
+            "marginal_rate": 28,
+            "marginal_capital_gain_rate": 15,
+            "amount": 29752.5
+          },
+          {
+            "bracket": 233350,
+            "marginal_rate": 33,
+            "marginal_capital_gain_rate": 15,
+            "amount": 52222.5
+          },
+          {
+            "bracket": 416700,
+            "marginal_rate": 35,
+            "marginal_capital_gain_rate": 15,
+            "amount": 112728
+          },
+          {
+            "bracket": 470700,
+            "marginal_rate": 39.6,
+            "marginal_capital_gain_rate": 20,
+            "amount": 131628
+          }
+        ],
+        "deductions": [
+          {
+            "deduction_name": "Standard Deduction (Married)",
+            "deduction_amount": 12700
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "Standard Exemption (Single)",
+            "exemption_amount": 4050
+          }
+        ]
+      },
+      "married_separately": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 10,
+            "marginal_capital_gain_rate": 0,
+            "amount": 0
+          },
+          {
+            "bracket": 9325,
+            "marginal_rate": 15,
+            "marginal_capital_gain_rate": 0,
+            "amount": 932.5
+          },
+          {
+            "bracket": 37950,
+            "marginal_rate": 25,
+            "marginal_capital_gain_rate": 15,
+            "amount": 5226.25
+          },
+          {
+            "bracket": 76550,
+            "marginal_rate": 28,
+            "marginal_capital_gain_rate": 15,
+            "amount": 18713.75
+          },
+          {
+            "bracket": 116675,
+            "marginal_rate": 33,
+            "marginal_capital_gain_rate": 15,
+            "amount": 46643.75
+          },
+          {
+            "bracket": 208350,
+            "marginal_rate": 35,
+            "marginal_capital_gain_rate": 15,
+            "amount": 120910.25
+          },
+          {
+            "bracket": 235350,
+            "marginal_rate": 39.6,
+            "marginal_capital_gain_rate": 20,
+            "amount": 121505.25
+          }
+        ],
+        "deductions": [
+          {
+            "deduction_name": "Standard Deduction (Married Filing Separately)",
+            "deduction_amount": 6350
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "Standard Exemption (Single)",
+            "exemption_amount": 4050
+          }
+        ]
+      },
+      "head_of_household": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 10,
+            "marginal_capital_gain_rate": 0,
+            "amount": 0
+          },
+          {
+            "bracket": 13350,
+            "marginal_rate": 15,
+            "marginal_capital_gain_rate": 0,
+            "amount": 1335
+          },
+          {
+            "bracket": 50800,
+            "marginal_rate": 25,
+            "marginal_capital_gain_rate": 15,
+            "amount": 6952.5
+          },
+          {
+            "bracket": 131200,
+            "marginal_rate": 28,
+            "marginal_capital_gain_rate": 15,
+            "amount": 27052.5
+          },
+          {
+            "bracket": 212500,
+            "marginal_rate": 33,
+            "marginal_capital_gain_rate": 15,
+            "amount": 49816.5
+          },
+          {
+            "bracket": 416700,
+            "marginal_rate": 35,
+            "marginal_capital_gain_rate": 15,
+            "amount": 117202.5
+          },
+          {
+            "bracket": 444500,
+            "marginal_rate": 39.6,
+            "marginal_capital_gain_rate": 20,
+            "amount": 126950
+          }
+        ],
+        "deductions": [
+          {
+            "deduction_name": "Standard Deduction (Head of Household)",
+            "deduction_amount": 9350
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "Standard Exemption (Single)",
+            "exemption_amount": 4050
+          }
+        ]
+      }
     }
+  }
 }
