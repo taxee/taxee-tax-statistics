@@ -45,10 +45,12 @@
             "deduction_amount": 6300
           }
         ],
-        "exemptions": [{
+        "exemptions": [
+          {
             "exemption_name": "Standard Exemption (Single)",
             "exemption_amount": 4000
-        }]
+          }
+        ]
       },
       "married": {
         "income_tax_brackets": [
@@ -60,32 +62,32 @@
           {
             "bracket": 18150,
             "marginal_rate": 15,
-            "amount": 1815.00
+            "amount": 1815.0
           },
           {
             "bracket": 73800,
             "marginal_rate": 25,
-            "amount": 10162.50
+            "amount": 10162.5
           },
           {
             "bracket": 146400,
             "marginal_rate": 28,
-            "amount": 28457.50
+            "amount": 28457.5
           },
           {
             "bracket": 226850,
             "marginal_rate": 33,
-            "amount": 50765.00
+            "amount": 50765.0
           },
           {
             "bracket": 405100,
             "marginal_rate": 35,
-            "amount": 109587.50
+            "amount": 109587.5
           },
           {
             "bracket": 457600,
             "marginal_rate": 39.6,
-            "amount": 127962.50
+            "amount": 127962.5
           }
         ],
         "deductions": [
@@ -94,10 +96,12 @@
             "deduction_amount": 12200
           }
         ],
-        "exemptions": [{
+        "exemptions": [
+          {
             "exemption_name": "Standard Exemption (Married)",
             "exemption_amount": 4000
-        }]
+          }
+        ]
       },
       "married_separately": {
         "income_tax_brackets": [
@@ -143,10 +147,12 @@
             "deduction_amount": 6100
           }
         ],
-        "exemptions": [{
+        "exemptions": [
+          {
             "exemption_name": "Standard Exemption (Married Filing Separately)",
             "exemption_amount": 4000
-        }]
+          }
+        ]
       },
       "head_of_household": {
         "income_tax_brackets": [
@@ -163,7 +169,7 @@
           {
             "bracket": 48600,
             "marginal_rate": 25,
-            "amount": 6652.50
+            "amount": 6652.5
           },
           {
             "bracket": 125450,
@@ -183,7 +189,7 @@
           {
             "bracket": 425000,
             "marginal_rate": 39.6,
-            "amount": 121364.50
+            "amount": 121364.5
           }
         ],
         "deductions": [
@@ -192,10 +198,12 @@
             "deduction_amount": 8950
           }
         ],
-        "exemptions": [{
+        "exemptions": [
+          {
             "exemption_name": "Standard Exemption (Head of Household)",
             "exemption_amount": 4000
-        }]
+          }
+        ]
       }
     }
   }
