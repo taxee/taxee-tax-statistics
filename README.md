@@ -11,9 +11,8 @@ The following example shows how you would import and reference tax statistics co
 ```
 import Taxee from 'taxee-tax-statistics';
 
-const 2019 = Taxee.2019;
-const federalStats = 2019.TAX_DATA.federal;
-const michiganStats = 2019.TAX_DATA.michigan;
+const federalStats = Taxee.2020.federal;
+const illinoisStats = Taxee.2020.illinois;
 ```
 
 ## Are you using Taxee stats?
