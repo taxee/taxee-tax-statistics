@@ -4,6 +4,7 @@ import y2016 from './statistics/2016/index.js';
 import y2017 from './statistics/2017/index.js';
 import y2018 from './statistics/2018/index.js';
 import y2019 from './statistics/2019/index.js';
+import y2020 from './statistics/2020/index.js';
 
 export default {
   '2014': y2014,
@@ -12,4 +13,5 @@ export default {
   '2017': y2017,
   '2018': y2018,
   '2019': y2019,
+  '2020': y2020,
 };

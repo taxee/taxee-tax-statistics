@@ -4,7 +4,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Single)",
-        "deduction_amount": 2400
+        "deduction_amount": 2500
       }
     ],
     "credits": [],
@@ -12,6 +12,14 @@
     "income_tax_brackets": [
       {
         "bracket": 0,
+        "marginal_rate": 2
+      },
+      {
+        "bracket": 500,
+        "marginal_rate": 4
+      },
+      {
+        "bracket": 3000,
         "marginal_rate": 5
       }
     ]
@@ -21,7 +29,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Married)",
-        "deduction_amount": 4800
+        "deduction_amount": 7500
       }
     ],
     "credits": [],
@@ -29,6 +37,14 @@
     "income_tax_brackets": [
       {
         "bracket": 0,
+        "marginal_rate": 2
+      },
+      {
+        "bracket": 1000,
+        "marginal_rate": 4
+      },
+      {
+        "bracket": 6000,
         "marginal_rate": 5
       }
     ]
@@ -38,7 +54,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Married Separately)",
-        "deduction_amount": 2400
+        "deduction_amount": 2500
       }
     ],
     "credits": [],
@@ -46,6 +62,14 @@
     "income_tax_brackets": [
       {
         "bracket": 0,
+        "marginal_rate": 2
+      },
+      {
+        "bracket": 500,
+        "marginal_rate": 4
+      },
+      {
+        "bracket": 3000,
         "marginal_rate": 5
       }
     ]
@@ -54,8 +78,8 @@
     "specialtaxes": [],
     "deductions": [
       {
-        "deduction_name": "Standard Deduction (Head of Household)",
-        "deduction_amount": 2400
+        "deduction_name": "Standard Deduction (Head Of Household)",
+        "deduction_amount": 2500
       }
     ],
     "credits": [],
@@ -63,7 +87,15 @@
     "income_tax_brackets": [
       {
         "bracket": 0,
-        "marginal_rate": 0
+        "marginal_rate": 2
+      },
+      {
+        "bracket": 500,
+        "marginal_rate": 4
+      },
+      {
+        "bracket": 3000,
+        "marginal_rate": 5
       }
     ]
   }
