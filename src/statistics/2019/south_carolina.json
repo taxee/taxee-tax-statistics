@@ -22,8 +22,8 @@
     "specialtaxes": [],
     "deductions": [
       {
-        "deduction_name": "Standard Deduction (Married Separately)",
-        "deduction_amount": 12200
+        "deduction_name": "Standard Deduction (Married)",
+        "deduction_amount": 24400
       }
     ],
     "credits": [],
