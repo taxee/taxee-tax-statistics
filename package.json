@@ -1,6 +1,6 @@
 {
   "name": "taxee-tax-statistics",
-  "version": "2020.1.0",
+  "version": "2020.1.1",
   "description": "Federal and state tax brackets and statistics used on https://taxee.io",
   "author": "Taxee <support@taxee.io> (https://taxee.io)",
   "private": false,
@@ -37,8 +37,5 @@
     "babel-preset-stage-2": "^6.13.0",
     "eslint": "^6.8.0",
     "json-loader": "^0.5.4"
-  },
-  "engines": {
-    "node": "10.15.0"
   }
 }
