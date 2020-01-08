@@ -4,7 +4,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Single)",
-        "deduction_amount": 3992
+        "deduction_amount": 4401
       }
     ],
     "credits": [],
@@ -36,7 +36,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Married)",
-        "deduction_amount": 7984
+        "deduction_amount": 8802
       }
     ],
     "credits": [],
@@ -59,7 +59,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Married Separately)",
-        "deduction_amount": 3992
+        "deduction_amount": 4401
       }
     ],
     "credits": [],
@@ -82,7 +82,7 @@
     "deductions": [
       {
         "deduction_name": "Standard Deduction (Head Of Household)",
-        "deduction_amount": 3992
+        "deduction_amount": 8802
       }
     ],
     "credits": [],
