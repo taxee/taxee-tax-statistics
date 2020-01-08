@@ -1,12 +1,7 @@
 {
   "single": {
     "specialtaxes": [],
-    "deductions": [
-      {
-        "deduction_name": "Standard Deduction (Single)",
-        "deduction_amount": 6300
-      }
-    ],
+    "deductions": [],
     "credits": [],
     "annotations": [],
     "income_tax_brackets": [
@@ -19,12 +14,7 @@
   },
   "married": {
     "specialtaxes": [],
-    "deductions": [
-      {
-        "deduction_name": "Standard Deduction (Married)",
-        "deduction_amount": 12600
-      }
-    ],
+    "deductions": [],
     "credits": [],
     "annotations": [],
     "income_tax_brackets": [
@@ -37,12 +27,7 @@
   },
   "married_separately": {
     "specialtaxes": [],
-    "deductions": [
-      {
-        "deduction_name": "Standard Deduction (Married Separately)",
-        "deduction_amount": 6300
-      }
-    ],
+    "deductions": [],
     "credits": [],
     "annotations": [],
     "income_tax_brackets": [
@@ -55,12 +40,7 @@
   },
   "head_of_household": {
     "specialtaxes": [],
-    "deductions": [
-      {
-        "deduction_name": "Standard Deduction (Head Of Household)",
-        "deduction_amount": 6300
-      }
-    ],
+    "deductions": [],
     "credits": [],
     "annotations": [],
     "income_tax_brackets": [
