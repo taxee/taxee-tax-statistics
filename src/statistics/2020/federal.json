@@ -233,6 +233,92 @@
           }
         ]
       }
+    },
+    "amt": {
+      "single": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 197900,
+            "marginal_rate": 28,
+            "amount": 51454
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Single)",
+            "exemption_amount": 72900,
+            "phaseout": 518400
+          }
+        ]
+      },
+      "married": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 197900,
+            "marginal_rate": 28,
+            "amount": 51454
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Married)",
+            "exemption_amount": 113400,
+            "phaseout": 1036800
+          }
+        ]
+      },
+      "married_separately": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 98950,
+            "marginal_rate": 28,
+            "amount": 25727
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Married Filing Separately)",
+            "exemption_amount": 56700,
+            "phaseout": 518400
+          }
+        ]
+      },
+      "head_of_household": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 197900,
+            "marginal_rate": 28,
+            "amount": 51454
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Head of Household)",
+            "exemption_amount": 72900,
+            "phaseout": 518400
+          }
+        ]
+      }
     }
   }
 }
