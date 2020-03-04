@@ -181,6 +181,92 @@
           }
         ]
       }
+    },
+    "amt": {
+      "single": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 182500,
+            "marginal_rate": 28,
+            "amount": 47450
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Single)",
+            "exemption_amount": 52800,
+            "phaseout": 117300
+          }
+        ]
+      },
+      "married": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 182500,
+            "marginal_rate": 28,
+            "amount": 47450
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Married)",
+            "exemption_amount": 82100,
+            "phaseout": 156500
+          }
+        ]
+      },
+      "married_separately": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 91200,
+            "marginal_rate": 28,
+            "amount": 23712
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Married Filing Separately)",
+            "exemption_amount": 41050,
+            "phaseout": 78250
+          }
+        ]
+      },
+      "head_of_household": {
+        "income_tax_brackets": [
+          {
+            "bracket": 0,
+            "marginal_rate": 26,
+            "amount": 0
+          },
+          {
+            "bracket": 182500,
+            "marginal_rate": 28,
+            "amount": 47450
+          }
+        ],
+        "exemptions": [
+          {
+            "exemption_name": "AMT Exemption (Head of Household)",
+            "exemption_amount": 52800,
+            "phaseout": 117300
+          }
+        ]
+      }
     }
   }
 }
